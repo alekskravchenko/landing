@@ -38,8 +38,6 @@ const SignupForm = () => {
       //phone
       //delivery 1
       //delivery_adress
-
-      //alert(JSON.stringify(values, null, 2));
       
 
       var config = {
